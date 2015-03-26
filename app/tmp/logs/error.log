@@ -1,0 +1,900 @@
+2015-03-19 12:02:17 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/employees/all
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-19 12:03:30 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:03:30 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/all
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:03:50 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:03:50 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:03:52 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:03:52 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:17 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:17 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:17 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:17 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 5]
+2015-03-19 12:04:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';'
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:04:32 Error: Fatal Error (1): Class 'AppMode' not found in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 2]
+2015-03-19 12:04:32 Error: [FatalErrorException] Class 'AppMode' not found
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppMode'...', 'C:\\xampp\\htdocs...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppMode'...', 'C:\\xampp\\htdocs...', 2, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AppMode'...', 'C:\\xampp\\htdocs...', 2, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:06:41 Error: [MissingViewException] View file "Employees\test.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees\\test.ctp',
+)
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-19 12:07:27 Error: [MissingActionException] Action EmployeesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'index',
+)
+Request URL: /TRS/employees/index
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-19 12:07:40 Error: [MissingActionException] Action EmployeesController::test() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'test',
+)
+Request URL: /TRS/employees/test
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-19 12:12:37 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-19 12:19:05 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-19 12:22:28 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\TRS\app\View\Employees\timein.ctp, line 13]
+Trace:
+include - APP\View\Employees\timein.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-03-19 12:31:24 Error: [MissingHelperException] Helper class PopupHelper could not be found.
+Exception Attributes: array (
+  'class' => 'PopupHelper',
+  'plugin' => false,
+)
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Popup')
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(848): HelperCollection->__isset('Popup')
+#2 C:\xampp\htdocs\TRS\app\View\Employees\timein.ctp(5): View->__get('Popup')
+#3 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-19 12:56:30 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 13]
+2015-03-19 12:56:30 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /TRS/employees/index
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-19 12:56:42 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 13]
+2015-03-19 12:56:42 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 08:12:53 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 13]
+2015-03-20 08:12:53 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /TRS/employees/index
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 08:35:03 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp\htdocs\TRS\app\View\Employees\timein.ctp, line 5]
+2015-03-20 08:35:03 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 08:36:09 Error: Fatal Error (1): Call to a member function button() on null in [C:\xampp\htdocs\TRS\app\View\Employees\timein.ctp, line 2]
+2015-03-20 08:36:09 Error: [FatalErrorException] Call to a member function button() on null
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 2, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 2, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 09:05:21 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 7]
+2015-03-20 09:05:21 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /TRS/employees/index
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 09:17:35 Error: [MissingActionException] Action EmployeesController::timeinlists() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'timeinlists',
+)
+Request URL: /TRS/employees/timeinlists
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-20 09:54:33 Error: [PDOException] SQLSTATE[HY000]: General error: 1467 Failed to read auto-increment value from storage engine
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `ti...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1928): DboSource->create(Object(Employee), Array, Array)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#5 C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php(13): Model->save(Array)
+#6 [internal function]: EmployeesController->add()
+#7 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-03-20 09:58:07 Error: [PDOException] SQLSTATE[HY000]: General error: 1467 Failed to read auto-increment value from storage engine
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `ti...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `ti...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1928): DboSource->create(Object(Employee), Array, Array)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#5 C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php(13): Model->save(Array)
+#6 [internal function]: EmployeesController->add()
+#7 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-03-20 10:04:52 Error: [MissingControllerException] Controller class AddController could not be found.
+Exception Attributes: array (
+  'class' => 'AddController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-20 10:30:10 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\TRS\app\View\Employees\add.ctp, line 8]
+2015-03-20 10:30:10 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 10:39:09 Error: Fatal Error (1): Call to a member function password() on null in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 29]
+2015-03-20 10:39:09 Error: [FatalErrorException] Call to a member function password() on null
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 10:39:45 Error: Fatal Error (1): Call to a member function password() on null in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 29]
+2015-03-20 10:39:45 Error: [FatalErrorException] Call to a member function password() on null
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-20 10:42:13 Error: Fatal Error (1): Class 'AuthComponent' not found in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 29]
+2015-03-20 10:42:13 Error: [FatalErrorException] Class 'AuthComponent' not found
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AuthComp...', 'C:\\xampp\\htdocs...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AuthComp...', 'C:\\xampp\\htdocs...', 29, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AuthComp...', 'C:\\xampp\\htdocs...', 29, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-23 02:40:25 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'Employee'
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-23 02:40:43 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'Employee'
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-23 02:42:25 Error: [MissingTableException] Table employee_details for model EmployeeDetails was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'employee_details',
+  'class' => 'EmployeeDetails',
+  'ds' => 'default',
+)
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3644): Model->setSource('employee_detail...')
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(2516): Model->schema()
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1741): DboSource->fields(Object(AppModel), 'EmployeeDetails', '')
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1093): DboSource->generateAssociationQuery(Object(TimeinRecord), Object(AppModel), 'belongsTo', 'EmployeeDetails', Array, Array, false)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#6 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#7 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#8 [internal function]: TimeinRecordsController->index()
+#9 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-03-23 02:42:39 Error: [MissingTableException] Table employee_details for model EmployeeDetails was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'employee_details',
+  'class' => 'EmployeeDetails',
+  'ds' => 'default',
+)
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3644): Model->setSource('employee_detail...')
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(2516): Model->schema()
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1741): DboSource->fields(Object(AppModel), 'EmployeeDetails', '')
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1093): DboSource->generateAssociationQuery(Object(TimeinRecord), Object(AppModel), 'hasOne', 'EmployeeDetails', Array, Array, false)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#6 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#7 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#8 [internal function]: TimeinRecordsController->index()
+#9 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-03-23 02:42:42 Error: [MissingTableException] Table employee_details for model EmployeeDetails was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'employee_details',
+  'class' => 'EmployeeDetails',
+  'ds' => 'default',
+)
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3644): Model->setSource('employee_detail...')
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(2516): Model->schema()
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1741): DboSource->fields(Object(AppModel), 'EmployeeDetails', '')
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1093): DboSource->generateAssociationQuery(Object(TimeinRecord), Object(AppModel), 'hasOne', 'EmployeeDetails', Array, Array, false)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#6 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#7 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#8 [internal function]: TimeinRecordsController->index()
+#9 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-03-23 02:42:48 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'Employee'
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-23 09:51:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Employee.timein_record_id' in 'on clause'
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-23 09:51:50 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'Employee'
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(6): Model->find('all')
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-23 10:00:48 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp\htdocs\TRS\app\View\TimeinRecords\index.ctp, line 26]
+2015-03-23 10:00:48 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 26, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:11:10 Error: [MissingActionException] Action EmployeesController::timein() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'timein',
+)
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-24 06:22:20 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 7]
+2015-03-24 06:22:20 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:32:44 Error: Fatal Error (1): Function name must be a string in [C:\xampp\htdocs\TRS\app\Controller\EmployeesController.php, line 14]
+2015-03-24 06:32:44 Error: [FatalErrorException] Function name must be a string
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Function name m...', 'C:\\xampp\\htdocs...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Function name m...', 'C:\\xampp\\htdocs...', 14, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Function name m...', 'C:\\xampp\\htdocs...', 14, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:38:15 Error: [MissingControllerException] Controller class AddController could not be found.
+Exception Attributes: array (
+  'class' => 'AddController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-24 06:38:22 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 40]
+2015-03-24 06:38:22 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:39:31 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\TRS\app\Model\Employee.php, line 38]
+2015-03-24 06:39:31 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /TRS/employees/add
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 38, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:53:14 Error: Fatal Error (1): Class 'Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 19]
+2015-03-24 06:53:14 Error: [FatalErrorException] Class 'Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 19, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 19, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:53:57 Error: Fatal Error (1): Class 'Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 21]
+2015-03-24 06:53:57 Error: [FatalErrorException] Class 'Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:56:13 Error: Fatal Error (1): Class 'Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 21]
+2015-03-24 06:56:13 Error: [FatalErrorException] Class 'Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Time' no...', 'C:\\xampp\\htdocs...', 21, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:57:14 Error: Fatal Error (1): Class 'Cake\I18n\Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 23]
+2015-03-24 06:57:14 Error: [FatalErrorException] Class 'Cake\I18n\Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:57:33 Error: Fatal Error (1): Trait 'Cake\I18n\Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 4]
+2015-03-24 06:57:33 Error: [FatalErrorException] Trait 'Cake\I18n\Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Trait 'Cake\\I18...', 'C:\\xampp\\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Trait 'Cake\\I18...', 'C:\\xampp\\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Trait 'Cake\\I18...', 'C:\\xampp\\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 06:58:35 Error: Fatal Error (1): Class 'Cake\I18n\Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 23]
+2015-03-24 06:58:35 Error: [FatalErrorException] Class 'Cake\I18n\Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 07:24:50 Error: Fatal Error (1): Class 'lib\Cake\I18n\Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 23]
+2015-03-24 07:24:50 Error: [FatalErrorException] Class 'lib\Cake\I18n\Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'lib\\Cake...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'lib\\Cake...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'lib\\Cake...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 07:26:15 Error: Fatal Error (1): Class 'Cake\I18n\Time' not found in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 23]
+2015-03-24 07:26:15 Error: [FatalErrorException] Class 'Cake\I18n\Time' not found
+Request URL: /TRS/timeinrecords/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Cake\\I18...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 07:41:04 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php, line 22]
+2015-03-24 07:41:04 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /TRS/timeinrecords
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 07:43:52 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Model.created' in 'order clause'
+Request URL: /TRS/timeinrecords
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `TimeinR...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `TimeinR...', Array, Array)
+#3 C:\xampp\htdocs\TRS\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `TimeinR...', false)
+#4 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(3022): DboSource->read(Object(TimeinRecord), Array)
+#5 C:\xampp\htdocs\TRS\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\TRS\app\Controller\TimeinRecordsController.php(36): Model->find('all', Array)
+#7 [internal function]: TimeinRecordsController->index()
+#8 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(TimeinRecordsController), Array)
+#9 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#11 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-24 11:24:17 Error: [MissingActionException] Action EmployeesController::timein() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'timein',
+)
+Request URL: /TRS/employees/timein
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:33:55 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-25 06:52:28 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-25 06:52:36 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/index
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-25 06:55:59 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 [internal function]: PagesController->display('timeinrecords')
+#1 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-03-25 06:56:38 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:56:39 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:56:39 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:56:39 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:57:19 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:57:24 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:58:11 Error: [MissingActionException] Action TimeinRecordsController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'TimeinRecordsController',
+  'action' => 'display',
+)
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TimeinRecordsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-25 06:58:19 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-25 06:58:20 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-25 06:58:20 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-25 06:58:21 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-03-25 06:58:24 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /TRS/home
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-25 06:58:43 Error: [NotFoundException] Not Found
+Request URL: /TRS/
+Stack Trace:
+#0 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(961): include()
+#1 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(923): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\TRS\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(960): View->render('home', NULL)
+#4 C:\xampp\htdocs\TRS\app\Controller\PagesController.php(68): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 C:\xampp\htdocs\TRS\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\TRS\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 C:\xampp\htdocs\TRS\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
